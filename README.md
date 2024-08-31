@@ -27,9 +27,9 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite"></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cuongdanezu&show_icons=true&locale=en&layout=compact" alt="cuongdanezu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cuongdanezu&show_icons=true&locale=en&layout=compact" alt="DinhVitCuong" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cuongdanezu&show_icons=true&locale=en" alt="cuongdanezu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cuongdanezu&show_icons=true&locale=en" alt="DinhVitCuong" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
