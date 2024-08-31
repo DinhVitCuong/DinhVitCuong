@@ -22,7 +22,10 @@
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&amp;logo=PyTorch&amp;logoColor=white" alt="PyTorch"></a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&amp;logo=scikit-learn&amp;logoColor=white" alt="scikit-learn"></a>
 <a href="https://www.scipy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&amp;logo=scipy&amp;logoColor=%25white" alt="Scipy"></a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&amp;logo=TensorFlow&amp;logoColor=white" alt="TensorFlow"></a></p>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&amp;logo=TensorFlow&amp;logoColor=white" alt="TensorFlow"></a>
+<a href="https://flask-restful.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FlaskAPI-%23000000.svg?style=flat&logo=flask&logoColor=white" alt="FlaskAPI"></a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite"></a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cuongdanezu&show_icons=true&locale=en&layout=compact" alt="cuongdanezu" /></p>
 
