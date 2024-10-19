@@ -27,6 +27,9 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a> 
+    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     </a> 
@@ -79,7 +82,11 @@
     <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/DBeaver-%233E4E88.svg?style=flat&logo=DBeaver&logoColor=white" alt="DBeaver">
     </a>
+    <a href="https://www.bpmn.org/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/BPMN-%23FF5733.svg?style=flat&logo=workflow&logoColor=white" alt="BPMN">
+    </a>
 </p>
+
 
 ## My Repositories
 1. [Repository 1](https://github.com/cuongdanezu/Delay-NotDelay-Predicting)
