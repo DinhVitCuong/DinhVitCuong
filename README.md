@@ -1,14 +1,12 @@
 <h1 align="center">I'm Dinh Viet Cuong </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cuongdanezu&label=Profile%20views&color=0e75b6&style=flat" alt="cuongdanezu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhvitcuong&label=Profile%20views&color=0e75b6&style=flat" alt="DinhVitCuong" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- Ask me about **Data Crawling, Data Preprocessing, Machine Learning**
 
-- 💬 Ask me about **Data Crawling, Data Preprocessing, Machine Learning**
+- All my works are uploaded on this GitHub
 
-- 📊 All my works are uploaded on this GitHub
-
-- 📫 How to reach me **dvcuong.work@gmail.com**
+- How to reach me **dvcuong.work@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -89,10 +87,10 @@
 
 
 ## My Repositories
-1. [Repository 1](https://github.com/cuongdanezu/Delay-NotDelay-Predicting)
-2. [Repository 2](https://github.com/cuongdanezu/Address-parsing)
-3. [Repository 3](https://github.com/cuongdanezu/final-exam-prep)
-4. [Repository 4](https://github.com/cuongdanezu/Estimating-value-at-risk-using-MorteCarloEstimating-value-at-risk-using-MorteCarlo)
+1. [Repository 1](https://github.com/dinhvitcuong/Delay-NotDelay-Predicting)
+2. [Repository 2](https://github.com/dinhvitcuong/Address-parsing)
+3. [Repository 3](https://github.com/dinhvitcuong/final-exam-prep)
+4. [Repository 4](https://github.com/dinhvitcuong/Estimating-value-at-risk-using-MorteCarloEstimating-value-at-risk-using-MorteCarlo)
 5. [Repository 5](https://github.com/ThaiMinhLam/IS217_Data-Warehouse-and-OLAP)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DinhVitCuong&show_icons=true&locale=en&layout=compact" alt="DinhVitCuong" /></p>
@@ -101,7 +99,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/cuongdanezu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DinhVitCuong" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dinhvitcuong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DinhVitCuong" height="30" width="40" /></a>
 <a href="https://fb.com/cuong.nezumiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cuong.nezumiii" height="30" width="40" /></a>
 <a href="https://instagram.com/cuong.nezumiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cuong.nezumiii" height="30" width="40" /></a>
 </p>
