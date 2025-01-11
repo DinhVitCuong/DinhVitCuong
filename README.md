@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhvitcuong&label=Profile%20views&color=0e75b6&style=flat" alt="DinhVitCuong" /> </p>
 
-- Ask me about **Data Crawling, Data Preprocessing, Machine Learning**
+- Ask me about **Data Crawling, Data Preprocessing, Machine Learning, Deep Learning**
 
 - All my works are uploaded on this GitHub
 
