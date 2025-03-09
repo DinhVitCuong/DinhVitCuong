@@ -86,13 +86,6 @@
 </p>
 
 
-## My Repositories
-1. [Repository 1](https://github.com/dinhvitcuong/Delay-NotDelay-Predicting)
-2. [Repository 2](https://github.com/dinhvitcuong/Address-parsing)
-3. [Repository 3](https://github.com/dinhvitcuong/final-exam-prep)
-4. [Repository 4](https://github.com/dinhvitcuong/Estimating-value-at-risk-using-MorteCarloEstimating-value-at-risk-using-MorteCarlo)
-5. [Repository 5](https://github.com/ThaiMinhLam/IS217_Data-Warehouse-and-OLAP)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DinhVitCuong&show_icons=true&locale=en&layout=compact" alt="DinhVitCuong" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DinhVitCuong&show_icons=true&locale=en" alt="DinhVitCuong" /></p>
