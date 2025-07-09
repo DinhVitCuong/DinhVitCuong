@@ -90,7 +90,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DinhVitCuong&show_icons=true&locale=en" alt="DinhVitCuong" /></p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dinhvitcuong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DinhVitCuong" height="30" width="40" /></a>
 <a href="https://fb.com/cuong.nezumiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cuong.nezumiii" height="30" width="40" /></a>
